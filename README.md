@@ -55,6 +55,7 @@ Here is the list of all the available installation options:
 | `INCLUDE_SAKURA`     | true    | Whether or not to install a terminal emulator            |
 | `INCLUDE_PROTONFIX`  | false   | Whether or not to install Protonfix                      |
 | `INCLUDE_GPU_DRIVERS`| true    | Whether or not to install the latest GPU drivers         |
+| `PANTHEON`           | false   | Support for installing on elementaryOS                   |
 | `GPU_TYPE`           | auto    | GPU drivers to install. Can be: auto, nvidia, amd, intel |
 | `NON_INTERACTIVE`    | false   | Whether or not to prompt the user during install         |
 | `STEAM_USER`         | steam   | The username of the account to autologin as              |
@@ -95,4 +96,4 @@ wish to use this script with.
 ## Legal
 The Steam logo and Ubuntu logo are registered trademarks of Valve Corporation
 and Canonical respectively. This project is in no way officially affiliated with
-Valve or Canonical.
+Valve or Canonical or elementaryOS.
